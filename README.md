@@ -1,3 +1,7 @@
+## Resuming training progress:
+- Modify resume_pkl and resume_kimg in `training/training_loop.py` to resume training progress from a checkpoint.
+
+
 ## StyleGAN2 &mdash; Official TensorFlow Implementation
 
 ![Teaser image](./docs/stylegan2-teaser-1024x256.png)
